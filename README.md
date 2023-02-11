@@ -1,3 +1,5 @@
+![971](https://user-images.githubusercontent.com/105519378/218238972-71ce3c0b-50ea-451f-af3f-fadd40588fd2.jpg)
+
 <h1 align="center">Hi 👋, I'm PoornaManupriya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
